@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Website Title</title>
-    <link>/post/</link>
+    <link>https://d-testing.github.io/post/</link>
     <description>Recent content in Articles on Website Title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://d-testing.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>document - title</title>
-      <link>/post/hands-and-document/</link>
+      <link>https://d-testing.github.io/post/hands-and-document/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>/post/hands-and-document/</guid>
+      <guid>https://d-testing.github.io/post/hands-and-document/</guid>
       <description>Text about doument stuff.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia pulvinar sem in aliquet. Mauris ultricies mi tempor, imperdiet neque at, sodales massa. Donec quis fermentum quam, in lobortis eros. Duis sed quam id nulla vulputate porta. Sed commodo molestie massa non scelerisque. Vivamus id dictum nunc. In tincidunt porttitor tincidunt. Ut in nibh eget quam luctus euismod porttitor sit amet erat. Proin neque tortor, pretium nec malesuada a, venenatis et urna.</description>
     </item>
     
     <item>
       <title>House - title</title>
-      <link>/post/house/</link>
+      <link>https://d-testing.github.io/post/house/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>/post/house/</guid>
+      <guid>https://d-testing.github.io/post/house/</guid>
       <description>Text about house stuff.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia pulvinar sem in aliquet. Mauris ultricies mi tempor, imperdiet neque at, sodales massa. Donec quis fermentum quam, in lobortis eros. Duis sed quam id nulla vulputate porta. Sed commodo molestie massa non scelerisque. Vivamus id dictum nunc. In tincidunt porttitor tincidunt. Ut in nibh eget quam luctus euismod porttitor sit amet erat. Proin neque tortor, pretium nec malesuada a, venenatis et urna.</description>
     </item>
     
     <item>
       <title>stamp - title</title>
-      <link>/post/stamp/</link>
+      <link>https://d-testing.github.io/post/stamp/</link>
       <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
       
-      <guid>/post/stamp/</guid>
+      <guid>https://d-testing.github.io/post/stamp/</guid>
       <description>Text about STAMP stuff.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia pulvinar sem in aliquet. Mauris ultricies mi tempor, imperdiet neque at, sodales massa. Donec quis fermentum quam, in lobortis eros. Duis sed quam id nulla vulputate porta. Sed commodo molestie massa non scelerisque. Vivamus id dictum nunc. In tincidunt porttitor tincidunt. Ut in nibh eget quam luctus euismod porttitor sit amet erat. Proin neque tortor, pretium nec malesuada a, venenatis et urna.</description>
     </item>
