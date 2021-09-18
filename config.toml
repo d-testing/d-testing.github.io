@@ -1,5 +1,5 @@
 title = "Website Title"
-baseURL = "https://example.com"
+#baseURL = "https://example.com"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
